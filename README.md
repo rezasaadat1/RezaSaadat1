@@ -27,3 +27,5 @@ src="https://img.shields.io/github/followers/rezasaadat1?logo=github&style=for-t
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=onlysaadat&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
