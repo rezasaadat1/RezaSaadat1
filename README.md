@@ -62,7 +62,7 @@ A comprehensive VSCode template for C/C++ cross-compilation targeting ARM device
 
 <div align="center">
 
-**💡 "Bridging the gap between hardware and software, one commit at a time"**
+💡 "Bridging the gap between hardware and software, one commit at a time"
 
 </div>
 
